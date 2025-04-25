@@ -1,0 +1,6 @@
+﻿  Week 2 - STL notes.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\Week 2 - STL notes\Week 2 - STL notes.cpp(69,9): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\Week 2 - STL notes\Week 2 - STL notes.cpp(70,9): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\Week 2 - STL notes\Week 2 - STL notes.cpp(75,14): warning C4858: discarding return value: This member function returns a bool indicating whether the collection is empty and has no other effects. It is not useful to call this member function and discard the return value. Use the 'clear()' member function if you want to erase all elements.
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\Week 2 - STL notes\Week 2 - STL notes.cpp(76,14): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Week 2 - STL notes.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\x64\Debug\Week 2 - STL notes.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\GreivinWen - Assignment1\main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Restaurant.cpp
+  Generating Code...
+  GreivinWen - Assignment1.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\x64\Debug\GreivinWen - Assignment1.exe

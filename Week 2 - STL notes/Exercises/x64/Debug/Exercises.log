@@ -1,0 +1,3 @@
+﻿  Exercises.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\Exercises\Exercises.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercises.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\Week 2 - STL notes\x64\Debug\Exercises.exe
