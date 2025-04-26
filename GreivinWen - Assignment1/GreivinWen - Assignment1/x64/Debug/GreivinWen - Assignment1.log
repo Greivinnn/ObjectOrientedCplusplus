@@ -1,5 +1,10 @@
-﻿  main.cpp
-C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\GreivinWen - Assignment1\main.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  Clients.cpp
+  Group.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\GreivinWen - Assignment1\Group.cpp(59,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Group.h
+  main.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\GreivinWen - Assignment1\main.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Restaurant.cpp
   Generating Code...
+x64\Debug\Group.obj : warning LNK4042: object specified more than once; extras ignored
   GreivinWen - Assignment1.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment1\x64\Debug\GreivinWen - Assignment1.exe

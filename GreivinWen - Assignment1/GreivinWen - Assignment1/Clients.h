@@ -13,9 +13,5 @@ namespace Assignment1
 	private:
 		std::string _customerName;
 		std::string _customerFood;
-		/*int _groupMembers = rand() % 4;
-		int _groupEnterFrames = rand() % 3;
-		int _groupOrderFrames = rand() % 3;
-		int _groupEatFrames = rand() % 3;*/
 	};
 }

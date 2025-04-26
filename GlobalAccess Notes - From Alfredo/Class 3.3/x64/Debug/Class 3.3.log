@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol "int __cdecl Math::Add(int,int)" (?Add@Math@@YAHHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "int __cdecl Math::Sub(int,int)" (?Sub@Math@@YAHHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "int __cdecl Math::Mul(int,int)" (?Mul@Math@@YAHHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "int __cdecl Math::Div(int,int)" (?Div@Math@@YAHHH@Z) referenced in function main
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GlobalAccess Notes - From Alfredo\x64\Debug\Class 3.3.exe : fatal error LNK1120: 4 unresolved externals
