@@ -1,0 +1,6 @@
+﻿  Farm.cpp
+  main.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment 3\GreivinWen - Assignment 3\main.cpp(6,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sheep.cpp
+  Generating Code...
+  GreivinWen - Assignment 3.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\GreivinWen - Assignment 3\x64\Debug\GreivinWen - Assignment 3.exe

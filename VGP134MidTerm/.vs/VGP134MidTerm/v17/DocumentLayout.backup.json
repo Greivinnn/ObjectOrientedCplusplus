@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidTermPart2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\VGP134MidTermPart2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\School.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\Registry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\School.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidtermPart1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\VGP134MidtermPart1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67CFA2A6-65A6-4F5D-830F-F4FAF2E87C03}|VGP134MidTerm\\VGP134MidTerm.vcxproj|solutionrelative:VGP134MidTerm\\Registry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VGP134MidTermPart2.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidTermPart2.cpp",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\VGP134MidTermPart2.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidTermPart2.cpp",
+              "RelativeToolTip": "VGP134MidTerm\\VGP134MidTermPart2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T21:43:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "School.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.cpp",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\School.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.cpp",
+              "RelativeToolTip": "VGP134MidTerm\\School.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T21:43:44.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registry.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.cpp",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\Registry.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.cpp",
+              "RelativeToolTip": "VGP134MidTerm\\Registry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T21:43:43.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VGP134MidtermPart1.txt",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidtermPart1.txt",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\VGP134MidtermPart1.txt",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\VGP134MidtermPart1.txt",
+              "RelativeToolTip": "VGP134MidTerm\\VGP134MidtermPart1.txt",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-10T21:43:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Student.h",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\Student.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Student.h",
+              "RelativeToolTip": "VGP134MidTerm\\Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T21:43:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "School.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.h",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\School.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\School.h",
+              "RelativeToolTip": "VGP134MidTerm\\School.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T21:43:30.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registry.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.h",
+              "RelativeDocumentMoniker": "VGP134MidTerm\\Registry.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\VGP134MidTerm\\VGP134MidTerm\\Registry.h",
+              "RelativeToolTip": "VGP134MidTerm\\Registry.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T21:43:29.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 431,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

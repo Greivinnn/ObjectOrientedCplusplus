@@ -1,0 +1,5 @@
+﻿  FarmAndSheep.cpp
+  SpecialFunctions.cpp
+C:\Users\greiv\Downloads\SpecialFunctions\SpecialFunctions\SpecialFunctions\SpecialFunctions.cpp(90,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SpecialFunctions.vcxproj -> C:\Users\greiv\Downloads\SpecialFunctions\SpecialFunctions\x64\Debug\SpecialFunctions.exe

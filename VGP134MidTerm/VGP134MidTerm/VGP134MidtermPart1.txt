@@ -1,0 +1,84 @@
+Part 1: (30%)
+1) What are the 4 pricipals of Object Oriented Programming? 
+   Describe each.
+
+   1. Encapsulation: 
+		- Bundles data and methods in a single data set
+		- Can also controll access to components withing the data set
+   2. Inheritance:
+	    - New class can derive from a base class
+		- Provides code reuse as well as data hierarchy
+   3. Polymorphism:
+	    - Enables overrding functionality for inherited classes while running through a common base class
+   4. Abstraction:
+	    - Hides complex functionality while only exposing relevant information
+
+2) What is the difference between a Stack and a Queue?
+
+   - Stack:
+		- Uses a LIFO (Last In First Out) data structure
+   - Queue:
+		- While queue uses a FIFO (First In First Out) data structure
+
+3) In a vector, what is the difference between the functions "reserve" and "resize"?
+
+   - Reserve:
+		- Allocates memory for the vector but does not change the size of the vector
+		- Can be used to optimize performance by reducing the number of reallocations
+   - Resize:
+		- Changes the size of the vector and initializes new elements if the new size is larger than the current size
+		- If the new size is smaller, it removes elements from the end of the vector
+
+4) Give an example of when a list may be more useful than a vector.
+
+   - A list may be more useful than a vector when you need to frequently insert or remove elements
+   from the middle of the collection, as lists allow for constant time insertion and deletion, while
+   vectors require shifting elements which can be costly in terms of performance.
+
+5) What are .h typically used for vs what .cpp files are used for?
+
+   - .h files are typically used for declarations of classes, functions, and variables, while .cpp files
+   are used for the implementation of those declarations. The .h files provide the interface, while the
+   .cpp files provide the implementation details. This way we keep everything tidy and people can quickly 
+   understand what our code is use for.
+
+6) What are the differences between a struct and a class? 
+   Why would you use one over the other?
+
+   - Struct: this are value types, the structs hold actual data while the classes
+   are reference types. Structs are typically used for small data structures that do not require
+   complex functionality, while classes are used for larger and more complex data structures.
+
+7) What is a reference used for?
+   What is a pointer used for?
+   
+   - Reference: a reference is typically used when we want to pass the actual value of 
+   our data without copying them (pass by reference). This is useful when we want to modify the original data
+   - Pointer: a pointer is used to store the address of another variable. This is useful when we are doing low-level 
+   memory manupulation or when we want to create dynamic data structures like linked lists.
+   
+8) When are keywords like "inline" and "constexpr" executed?
+
+   - Inline:
+		- used for small, frequently called functions
+		- when compiled, the function is replaced with the code to optimize runtime
+		- compiler may ignore if it determine the process is not beneficial
+   - Constexpr:
+		- constexpr evaluates variables at compile time
+		- can be used for functions and variables
+		- can allow for more optimizations and can be used in constant expressions
+
+9) Why would the keyword "virtual" be used?
+   What is the other keyword that is also used if something is "virtual"?
+
+   - virtual is used to indicate that a function can be overridden to derived classes. The other keyword use is "override"
+   this indicates that the function is overriding from a base class function. This is known as polymorphism.
+
+10) What are the six special member functions that can be automatically created in a class by the compiler?
+
+	1. Default constructor
+	2. Destructor
+	3. Copy constructor
+	4. Copy operator
+	5. Move constructor
+	6. Move operator

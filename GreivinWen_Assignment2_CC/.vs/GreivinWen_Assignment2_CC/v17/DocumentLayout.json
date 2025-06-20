@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\BlackJack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJackcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\BlackJackcpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C0C544C-386D-4C46-B825-D195EE885589}|GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC.vcxproj|solutionrelative:GreivinWen_Assignment2_CC\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackJack.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJack.h",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\BlackJack.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJack.h",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\BlackJack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T06:00:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.h",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Game.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.h",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T06:00:19.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Card.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Card.h",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Card.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Card.h",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Card.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T06:00:19.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hand.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.h",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Hand.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.h",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Hand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T06:00:18.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.h",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Player.h",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.h",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-16T06:00:18.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlackJackcpp.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJackcpp.cpp",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\BlackJackcpp.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\BlackJackcpp.cpp",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\BlackJackcpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T06:00:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hand.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.cpp",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Hand.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Hand.cpp",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Hand.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T06:00:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.cpp",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Player.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Player.cpp",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Player.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T06:00:15.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\main.cpp",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\main.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\main.cpp",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T05:56:55.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.cpp",
+              "RelativeDocumentMoniker": "GreivinWen_Assignment2_CC\\Game.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen_Assignment2_CC\\GreivinWen_Assignment2_CC\\Game.cpp",
+              "RelativeToolTip": "GreivinWen_Assignment2_CC\\Game.cpp",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T05:56:54.346Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

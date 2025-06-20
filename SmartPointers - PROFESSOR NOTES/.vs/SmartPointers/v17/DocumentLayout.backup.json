@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\SmartPointers - PROFESSOR NOTES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4189444-A6AC-4BD7-9C0D-EEA4FC9F89CB}|SmartPointers\\SmartPointers.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\SmartPointers - PROFESSOR NOTES\\SmartPointers\\SmartPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4189444-A6AC-4BD7-9C0D-EEA4FC9F89CB}|SmartPointers\\SmartPointers.vcxproj|solutionrelative:SmartPointers\\SmartPointers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartPointers.cpp",
+              "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\SmartPointers - PROFESSOR NOTES\\SmartPointers\\SmartPointers.cpp",
+              "RelativeDocumentMoniker": "SmartPointers\\SmartPointers.cpp",
+              "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\SmartPointers - PROFESSOR NOTES\\SmartPointers\\SmartPointers.cpp",
+              "RelativeToolTip": "SmartPointers\\SmartPointers.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T23:07:45.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

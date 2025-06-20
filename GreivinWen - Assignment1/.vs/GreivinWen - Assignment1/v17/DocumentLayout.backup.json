@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|solutionrelative:GreivinWen - Assignment1\\Restaurant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|solutionrelative:GreivinWen - Assignment1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|solutionrelative:GreivinWen - Assignment1\\Clients.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|solutionrelative:GreivinWen - Assignment1\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|solutionrelative:GreivinWen - Assignment1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72CA6522-4858-4187-A5E0-9D4DDE912B97}|GreivinWen - Assignment1\\GreivinWen - Assignment1.vcxproj|C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\Restaurant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Clients.cpp",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\Clients.cpp",
               "RelativeDocumentMoniker": "GreivinWen - Assignment1\\Clients.cpp",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "GreivinWen - Assignment1\\Clients.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-26T17:13:45.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T17:13:45.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Group.cpp",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\Group.cpp",
               "RelativeDocumentMoniker": "GreivinWen - Assignment1\\Group.cpp",
@@ -63,18 +62,17 @@
               "RelativeToolTip": "GreivinWen - Assignment1\\Group.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-26T17:13:40.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T17:13:40.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\main.cpp",
               "RelativeDocumentMoniker": "GreivinWen - Assignment1\\main.cpp",
               "ToolTip": "C:\\LASALE FIRST YEAR STUFF\\Object-Oriented-C\u002B\u002B\\GreivinWen - Assignment1\\GreivinWen - Assignment1\\main.cpp",
               "RelativeToolTip": "GreivinWen - Assignment1\\main.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-26T17:13:21.037Z",
               "EditorCaption": ""
@@ -102,8 +100,7 @@
               "RelativeToolTip": "GreivinWen - Assignment1\\Restaurant.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-26T02:17:05.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T02:17:05.425Z"
             }
           ]
         },

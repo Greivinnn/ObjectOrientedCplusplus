@@ -1,0 +1,10 @@
+﻿  Registry.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\VGP134MidTerm\Registry.cpp(127,39): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\VGP134MidTerm\Registry.cpp(127,39): warning C4244:         with
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\VGP134MidTerm\Registry.cpp(127,39): warning C4244:         [
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\VGP134MidTerm\Registry.cpp(127,39): warning C4244:             _Ty=float
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\VGP134MidTerm\Registry.cpp(127,39): warning C4244:         ]
+  School.cpp
+  VGP134MidTermPart2.cpp
+  Generating Code...
+  VGP134MidTerm.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134MidTerm\x64\Debug\VGP134MidTerm.exe
