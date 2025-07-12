@@ -1,0 +1,96 @@
+Part 1: (30%)
+1) What is a lambda function?
+    write a simple one
+
+- Combines the benefits of function pointers and functors
+- Useful for short, very specific functions that have no need for reusing outside of a scenario
+
+Example; (adds two numbers):
+
+auto add = [](int a, int b) 
+{
+     return a + b;
+};
+int result = add(5, 3);
+
+std::cout << "The result is " << result << "\n";
+
+
+2) What are the two main elements of associative containers?
+
+1. Key: The value used to identify and access elements in an associative container
+2. Value: The data associated with the key 
+
+3) In a vector, what is the difference between a std::map and std::unorderd_map?
+
+The main difference is that std::map will automatically sort by keys in ascending order by default and std::unorderd_map has no order and the keys will appear in random order.
+
+4) How does a std::set function?
+    Give an example when one can be used.
+
+We use set when we want to:
+- Store unique values, in a std::set there will be no duplicated values. Duplicates will be deleted
+- We want to automatically sort the values in ascending order
+- We want fast search of values
+
+Example; (a set of numbers):
+
+std::set<int> numbers = {3,4,5,2,1,1,2};
+for (int n : numbers)
+{
+   std::cout << n << " "; // Output will be 1 2 3 4 5 (no duplicates and sorted automatically)
+}
+
+if(numbers.find(5) != numbers.end())	// finds 5 in the set of numbers
+{
+   std::cout << "5 is in the set\n";
+}
+
+
+5) When would you use the different error handling options:
+    - If Statement
+    - Assert
+    - Try-Catch
+
+- If Statements: Use to do simple checks if condition is met 
+- Assert: Use to check programming mistakes that should never happen if the code is correct
+- Try-Catch: Use when we want to try to gracefully handle exceptions in code and continue the program. 
+
+6) What is the Call Stack?
+    When and how can you use it?
+
+- The call stack is a special memory structure that keeps track of active function calls. It makes sure to record which function is currently running, who called it, and where to return after the function finishes
+When to use:
+1. Debugging crashes or exceptions:
+- when a crash happens the call stack tells you which function caused the crash and the exact path the code took to get there
+2. Understanding our codes flow:
+- useful to trace how our program flows from function to function 
+
+7) What is std::move used for?
+   
+std::move is used to cast an object to an rvalue reference. This enables the transfer of resources from one object to another instead of copying them. This helps our program improve performance by avoiding expensive copies.
+   
+8) Write out the lvalue and rvalue references:
+    1. float speed = maxSpeed;  
+    2. bool isDebug = true; 
+    3. int totalEnemies = 10 + bonusEnemies; 
+    4. SetLevelToLoad(1);
+    5. int studentsMark = totalMarks / totalAssignments;
+Answers:
+1. speed = lvalue & maxSpeed = lvalue
+2. isDebug = lvalue & true = rvalue
+3. totalEnemies = lvalue, bonusEnemies = lvalue, 10 = rvalue & (10 + bonusEnemies) = rvalue
+4. 1 = rvalue
+5. studentsMark = lvalue, totalMarks = lvalue, totalAssignments = lvalue & (totalMarks / totalAssignments) = rvalue
+
+9) What are the benefits of multithreading?
+   
+1. Improve performance: multiple threads can run concurrently, making better use of CPU cores and speeding up tasks
+2. Simplifies program structure: allows the separation of tasks to have a more organized code
+3. Enhanced user experience: Keeps the application responsive while doing heavy work in background threads 
+
+10) What are three potential error conditions with multithreading?
+
+1. Deadlock
+2. Race Condition
+3. Starvation

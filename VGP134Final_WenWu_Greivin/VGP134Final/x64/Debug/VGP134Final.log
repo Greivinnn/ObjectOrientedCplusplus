@@ -1,0 +1,7 @@
+﻿  ActionManager.cpp
+  Actions.cpp
+  StatsManager.cpp
+  VGP134Final.cpp
+C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134Final_WenWu_Greivin\VGP134Final\VGP134Final.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  VGP134Final.vcxproj -> C:\LASALE FIRST YEAR STUFF\Object-Oriented-C++\VGP134Final_WenWu_Greivin\x64\Debug\VGP134Final.exe
